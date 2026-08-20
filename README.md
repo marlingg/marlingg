@@ -1,95 +1,62 @@
-# 👋 Hey, I'm Vladyslav
+<h1 align="center">Hi 👋, I'm <span style="color:#a970ff">Your Name</span></h1>
 
-### Backend Developer · Python · Data Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Building+things+that+matter;Turning+coffee+into+code;Open+source+enthusiast;Always+shipping+something+new" alt="Typing SVG" />
+</p>
 
-I build backend systems, work with APIs and databases, and enjoy understanding how things actually work under the hood.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=40&fontColor=fff&animation=fadeIn" />
+</p>
 
-```text
-Backend
-├── Python
-├── FastAPI
-├── PostgreSQL
-├── AsyncIO
-└── REST APIs
-
-Data & ML
-├── Pandas
-├── Scikit-learn
-└── TensorFlow
-
-Tools
-├── Git
-├── Docker
-└── Linux
-```
-
----
-
-## ⚡ What I'm working with
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=a970ff&style=flat" />
+  </a>
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
 </p>
 
 ---
 
-## 🧠 Currently learning
+### 🌐 Connect with me
 
-```python
-focus = {
-    "backend": ["asyncio", "PostgreSQL", "API design"],
-    "architecture": ["concurrency", "performance", "clean architecture"],
-    "data": ["machine learning", "data analysis"],
-}
-```
-
----
-
-## 🚀 Projects
-
-### 🔐 CryptoChat
-
-A backend-oriented project focused on authentication, users, messages and database interaction.
-
-**Python · FastAPI · PostgreSQL**
-
-### 🎮 Dota 2 Recommendation System
-
-A personalized recommendation system that analyzes player match history and uses machine learning to suggest heroes.
-
-**Python · OpenDota API · Pandas · Scikit-learn**
-
-### ⚡ FastAPI Rate Limiter
-
-A small library/project exploring decorators, request limiting, async programming and reusable backend components.
-
-**Python · AsyncIO · FastAPI**
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" />
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
-## 📫 Contact
+### 🛠️ Tech Stack
 
-**Telegram:** @YOUR_USERNAME
-**Email:** [your@email.com](mailto:your@email.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,git,figma,tailwind,postgres&theme=dark" />
+</p>
 
 ---
 
-```text
-> build
-> break
-> understand
-> rebuild
-```
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
+
+<p align="center"><i>⭐️ from <a href="https://github.com/yourusername">yourusername</a></i></p>
