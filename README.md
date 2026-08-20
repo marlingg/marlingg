@@ -1,5 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/marlingg/marlingg/main/f25f3d95d5f15a1f28b89564ee8ad109.gif" width="300"/>
-  <img src="https://github.com/marlingg/marlingg/blob/main/giphy.gif" />
+  <img src="https://raw.githubusercontent.com/marlingg/marlingg/main/giphy.gif" width="300"/>
 </p>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5RCKqtPe1HGSHOalQa4sPJ?utm_source=generator&si=78828eb584014686" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/5RCKqtPe1HGSHOalQa4sPJ">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
