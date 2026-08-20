@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Svyatoslav
+# 👋 Hey, I'm Vladyslav
 
 ### Backend Developer · Python · Data Analytics
 
